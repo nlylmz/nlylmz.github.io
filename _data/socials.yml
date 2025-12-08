@@ -12,10 +12,10 @@
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: nyilmaz3@asu.edu 
-linkedin: https://www.linkedin.com/in/nilay-yilmaz/
-google_scholar: https://scholar.google.com/citations?user=92awVdYAAAAJ&hl=en
-github_url: https://github.com/nlylmz
+email: "nyilmaz3@asu.edu"
+linkedin: "https://www.linkedin.com/in/nilay-yilmaz/"
+google_scholar: "https://scholar.google.com/citations?user=92awVdYAAAAJ&hl=en"
+github_url: "https://github.com/nlylmz"
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -38,7 +38,7 @@ github_url: https://github.com/nlylmz
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: true # comment this line to hide the RSS icon
 # scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
