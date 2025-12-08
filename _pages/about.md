@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Ph.D. Student, School of Computing &amp; AI, Arizona State University.</p>
+subtitle: Ph.D. Student, School of Computing & AI, Arizona State University.
+
 
 profile:
   align: right
