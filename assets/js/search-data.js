@@ -398,14 +398,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-voila-is-accepted-at-iclr-2025",
           title: '🚀 VOILA is accepted at ICLR 2025!',
-          description: "",
-          section: "News",},{id: "news-released-mentalblackboard-an-open-ended-spatial-visualization-benchmark-check-out-our-paper-and-page",
-          title: '✨ Released MentalBlackboard - an open-ended spatial visualization benchmark. Check out our paper...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
