@@ -3,62 +3,62 @@
   contents:
     - title: Ph.D. in Computer Science, GPA: 4.00
       institution: Arizona State University, Tempe, USA
-      year: 2023 – Present
+      year: 2023 - Present
       description:
         - Advisor: Yezhou Yang
     - title: Masters in Cognitive Science, GPA: 3.75
       institution: Middle East Technical University (METU), Ankara, Turkey
-      year: 2019 – 2022
+      year: 2019 - 2022
       description:
         - Thesis: Implementing Shared Decision-Making For Returning To Play Sports After An Injury Using The Analytic Hierarchy Process (AHP) In A Web Application
         - Advisors: Barbaros Yet, Ceren Tuncer Şakar
     - title: Masters in Software Engineering, GPA: 3.78
       institution: Pennsylvania State University, USA
-      year: 2015 – 2016
+      year: 2015 - 2016
       description:
         - Capstone Project: Tone Checker Add-in for Microsoft Outlook
         - Advisor: Raghvinder (Raghu) S. Sangwan
     - title: English Language Programs (ELP)
       institution: University of Pennsylvania, USA
-      year: 2014 – 2015
+      year: 2014 - 2015
     - title: B.S. in Computer Engineering, GPA: 3.00 (Honors)
       institution: Gazi University, Ankara, Turkey
-      year: 2009 – 2013
+      year: 2009 - 2013
 
 - title: Experience
   type: time_table
   contents:
-    - title: Graduate Research Associate – AI Acceleration Team
+    - title: Graduate Research Associate - AI Acceleration Team
       institution: Arizona State University, Tempe, USA
-      year: 2024 – Present
+      year: 2024 - Present
       description:
         - Built a multiturn multimodal conversation benchmark for a tutor bot using diverse course materials.
         - Designed metrics to evaluate multimodal reasoning and conversation performance.
 
     - title: Instructor
       institution: Arizona State University
-      year: 2023 – 2024
+      year: 2023 - 2024
       description:
         - Taught FSE 100: Introduction to Engineering lab (3 semesters) and online CSE 579: Knowledge Representation and Reasoning.
         - Achieved average student rating of 4.47/5.
 
     - title: Graduate Teaching Associate
       institution: Arizona State University
-      year: 2023 – 2024
+      year: 2023 - 2024
       description:
         - Facilitated lab sessions, supported students, and graded assignments in various CS courses.
         - Developed course materials to improve engagement and understanding.
 
     - title: Project Manager
       institution: Turkish Petroleum Corporation, Ankara, Turkey
-      year: 2021 – 2022
+      year: 2021 - 2022
       description:
         - Communicated project goals to stakeholders and led weekly syncs with dev and QA teams.
         - Validated software, created test reports, and tracked project progress.
 
     - title: Senior Software Engineer
       institution: Turkish Petroleum Corporation, Ankara, Turkey
-      year: 2017 – 2021
+      year: 2017 - 2021
       description:
         - Developed full-stack web applications using ASP.NET CORE, C#, SQL, HTML, JS, React, Telerik UI.
         - Implemented Agile, CI/CD, REST APIs, JWT auth, Swagger UI, and mentored junior developers.
@@ -76,31 +76,31 @@
   contents:
     - year: 2024
       items:
-        - University Graduate Fellowship, ASU – for excellent research and academic performance.
+        - University Graduate Fellowship, ASU - for excellent research and academic performance.
     - year: 2022
       items:
         - METU Open Research Day Best Poster Award
-        - Turkish Educational Scholarship (Presidency of the Republic of Turkey) – Full funding for U.S. graduate studies.
+        - Turkish Educational Scholarship (Presidency of the Republic of Turkey) - Full funding for U.S. graduate studies.
     - year: 2016
       items:
         - HLS Analyzer Project Award Finalist by ARRIS
     - year: 2014
       items:
-        - Turkish Educational Scholarship (Turkish Petroleum Corporation) – Full funding for graduate studies in the U.S.
+        - Turkish Educational Scholarship (Turkish Petroleum Corporation) - Full funding for graduate studies in the U.S.
 
 - title: Invited Talks
   type: time_table
   contents:
     - year: 2025
       items:
-        - Bridging Perception and Reasoning: Can Multimodal Large Language Models Solve Visual Analogies? – Machine Learning Day 2025
+        - Bridging Perception and Reasoning: Can Multimodal Large Language Models Solve Visual Analogies? - Machine Learning Day 2025
 
 - title: Volunteer Experience
   type: time_table
   contents:
     - title: Volunteer Information Technology Engineer
       institution: AKUT Search and Rescue Association, Ankara, Turkey
-      year: 2018 – 2019
+      year: 2018 - 2019
 
 
 - title: Other Interests
