@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-✨ Released MentalBlackboard - an open-ended spatial visualization benchmark. Check out our paper and page! 
+✨ Released  `MentalBlackboard` - an open-ended spatial visualization benchmark. Check out our paper and page! 
