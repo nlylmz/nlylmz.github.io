@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-✨ Released Unwritten Benchmark - a new challenge designed to probe this abstract perceptual and cognitive ability. Check out our paper and page!
+✨ Released `Unwritten Benchmark` - a new challenge designed to probe this abstract perceptual and cognitive ability. Check out our paper and page!
