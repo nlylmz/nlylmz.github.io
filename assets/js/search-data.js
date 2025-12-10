@@ -453,13 +453,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -468,24 +461,24 @@ ninja.data = [{
         },
       },{
         id: 'social-linkedin',
-        title: 'Linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://www.linkedin.com/in/nilayyilmaz", "_blank");
         },
       },{
-        id: 'social-google_scholar',
-        title: 'Google_scholar',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://scholar.google.com/citations?user=92awVdYAAAAJ", "_blank");
         },
       },{
-        id: 'social-github_url',
-        title: 'Github_url',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://github.com/nlylmz", "_blank");
         },
       },{
       id: 'light-theme',
