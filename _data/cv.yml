@@ -34,28 +34,24 @@
       description:
         - Built a multiturn multimodal conversation benchmark for a tutor bot using diverse course materials.
         - Designed metrics to evaluate multimodal reasoning and conversation performance.
-
     - title: Instructor
       institution: Arizona State University
       year: 2023 - 2024
       description:
         - Taught FSE 100: Introduction to Engineering lab (3 semesters) and online CSE 579: Knowledge Representation and Reasoning.
         - Achieved average student rating of 4.47/5.
-
     - title: Graduate Teaching Associate
       institution: Arizona State University
       year: 2023 - 2024
       description:
         - Facilitated lab sessions, supported students, and graded assignments in various CS courses.
         - Developed course materials to improve engagement and understanding.
-
     - title: Project Manager
       institution: Turkish Petroleum Corporation, Ankara, Turkey
       year: 2021 - 2022
       description:
         - Communicated project goals to stakeholders and led weekly syncs with dev and QA teams.
         - Validated software, created test reports, and tracked project progress.
-
     - title: Senior Software Engineer
       institution: Turkish Petroleum Corporation, Ankara, Turkey
       year: 2017 - 2021
@@ -63,7 +59,6 @@
         - Developed full-stack web applications using ASP.NET CORE, C#, SQL, HTML, JS, React, Telerik UI.
         - Implemented Agile, CI/CD, REST APIs, JWT auth, Swagger UI, and mentored junior developers.
         - Developed ERP systems in Java and generated Crystal Reports and Lumira dashboards.
-
     - title: Computer Engineer Intern
       institution: VakıfBank, Ankara, Turkey
       year: Summer 2012
@@ -76,24 +71,24 @@
   contents:
     - year: 2024
       items:
-        - University Graduate Fellowship, ASU - for excellent research and academic performance.
+        - "University Graduate Fellowship, ASU - for excellent research and academic performance."
     - year: 2022
       items:
         - METU Open Research Day Best Poster Award
-        - Turkish Educational Scholarship (Presidency of the Republic of Turkey) - Full funding for U.S. graduate studies.
+        - "Turkish Educational Scholarship (Presidency of the Republic of Turkey) - Full funding for U.S. graduate studies."
     - year: 2016
       items:
         - HLS Analyzer Project Award Finalist by ARRIS
     - year: 2014
       items:
-        - Turkish Educational Scholarship (Turkish Petroleum Corporation) - Full funding for graduate studies in the U.S.
+        - "Turkish Educational Scholarship (Turkish Petroleum Corporation) - Full funding for graduate studies in the U.S."
 
 - title: Invited Talks
   type: time_table
   contents:
     - year: 2025
       items:
-        - Bridging Perception and Reasoning: Can Multimodal Large Language Models Solve Visual Analogies? - Machine Learning Day 2025
+        - "Bridging Perception and Reasoning: Can Multimodal Large Language Models Solve Visual Analogies? - Machine Learning Day 2025"
 
 - title: Volunteer Experience
   type: time_table
@@ -102,8 +97,7 @@
       institution: AKUT Search and Rescue Association, Ankara, Turkey
       year: 2018 - 2019
 
-
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Traveling, Skiing, Volleyball, Tennis, Playing saxophone.
+    - "<u>Hobbies:</u> Traveling, Skiing, Volleyball, Tennis, Playing saxophone."
