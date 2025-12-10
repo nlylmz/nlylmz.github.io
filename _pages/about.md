@@ -21,8 +21,10 @@ announcements:
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student at Arizona State University, working under the supervision of Professor Yezhou Yang.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research centers on evaluating the multimodal abstract reasoning capabilities of vision-language models (VLMs) and large language models (LLMs), with a particular emphasis on spatial visualization and visual analogy problems. These cognitively demanding tasks reflect core aspects of human intelligence, and my goal is to advance our understanding of human cognition by developing models that can mirror such abilities in artificial systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I design dynamic dataset creation pipelines that include 3D scene construction grounded in physical principles and modular framework structures for flexible task generation. I believe that evaluating model capabilities should go beyond static benchmarks and limited multiple-choice evaluation formats, which fail to reflect a model’s true reasoning ability. Instead, evaluation must be open-ended, comprehensive, and human-aligned to uncover not only what a model gets wrong, but why and how that differs from human reasoning patterns.
+
+In addition, I explore `parameter-efficient fine-tuning` and `preference-based reinforcement learning` as strategies to enhance the reasoning and problem-solving abilities of multimodal foundation models in complex, abstract domains.
