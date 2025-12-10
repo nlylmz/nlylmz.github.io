@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Student, School of Computing & AI, Arizona State University.
+subtitle: Ph.D. Student, School of Computing & Augmented Intelligence, Arizona State University.
 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_1048.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
    
