@@ -2,11 +2,32 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
-nav_order: 6
+nav_order: 10
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+`Instructor:` 
 
-Organize your courses by years, topics, or universities, however you like!
+2025 Spring<br>
+CSE 579	Knowledge Representation and Reasoning, ASU<br><br>
+
+2024 Fall<br>
+FSE 100	Introduction to Engineering, ASU<br>
+FSE 100	Introduction to Engineering, ASU<br><br>
+
+2023 Fall<br>
+FSE 100	Introduction to Engineering, ASU<br><br>
+
+`Graduate Teaching Associate:` 
+
+2024 Summer<br>
+CSE 566 Software Project, Process and Quality Management, ASU<br>
+CSE 110 Principles of Programming, ASU<br><br>
+
+2024 Spring<br>
+CSE 310 Data Structures and Algorithms, ASU<br>
+CSE 566 Software Project, Process and Quality Management, ASU<br><br>
+
+2023 Fall<br>
+CSE 512 Distributed Database Systems, ASU<br><br>
