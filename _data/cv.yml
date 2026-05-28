@@ -60,15 +60,15 @@
       institution: Turkish Petroleum Corporation, Ankara, Turkey
       year: 2017 - 2021
       description:
-       - "Implemented procedures to gather and analyze user and business needs."
-       - "Designed and developed web application features, database schemas, and backend data models."
-       - "Developed web applications using ASP.NET Core/MVC, C# and SQL-based architectures."
-       - "Developed front end using HTML, CSS, JavaScript, jQuery, React libraries and framework."
-       - "Applied Agile software development practices and CI/CD tools in Scrum teams."
-       - "Deployed projects in a RESTful architecture and documented Web APIs with Swagger UI."
-       - "Mentored junior engineers and conducted code reviews in Agile development environments."
-       - "Led feature development, debugging, and production maintenance for ERP systems."
-       - "Created new business objects (BO) universes to prepare Crystal reports and Lumira dashboard."
+        - "Implemented procedures to gather and analyze user and business needs."
+        - "Designed and developed web application features, database schemas, and backend data models."
+        - "Developed web applications using ASP.NET Core/MVC, C# and SQL-based architectures."
+        - "Developed front end using HTML, CSS, JavaScript, jQuery, React libraries and framework."
+        - "Applied Agile software development practices and CI/CD tools in Scrum teams."
+        - "Deployed projects in a RESTful architecture and documented Web APIs with Swagger UI."
+        - "Mentored junior engineers and conducted code reviews in Agile development environments."
+        - "Led feature development, debugging, and production maintenance for ERP systems."
+        - "Created new business objects (BO) universes to prepare Crystal reports and Lumira dashboard."
 - title: Honors and Awards
   type: time_table
   contents:
