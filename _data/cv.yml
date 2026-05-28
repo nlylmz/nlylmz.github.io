@@ -72,7 +72,7 @@
 - title: Honors and Awards
   type: time_table
   contents:
-   - year: 2026
+    - year: 2026
       items:
         - "CVPR26 Broadening Participation Scholarship Award"
     - year: 2024
