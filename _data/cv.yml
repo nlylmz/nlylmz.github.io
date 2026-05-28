@@ -32,43 +32,49 @@
       institution: Arizona State University, Tempe, USA
       year: 2024 - Present
       description:
-        - "Built a multiturn multimodal conversation benchmark for a tutor bot using diverse course materials."
-        - "Designed metrics to evaluate multimodal reasoning and conversation performance."
+        - "Developed a multimodal multi-turn conversational benchmark for evaluating tutor-agent reasoning across text and visual modalities in various academic disciplines."
+        - "Designed model adaptive evaluation protocol and created deficit-based diagnostic approach that isolates relational reasoning from downstream tasks; knowledge gap, visual understanding and memory retrieval."
+        - "Curated diverse educational datasets utilizing images, diagrams, and textual instructional content."
+        - "Conducted benchmarking experiments on state-of-the-art multimodal large language models (MLLMs)."
     - title: "Instructor"
       institution: Arizona State University
       year: 2023 - 2024
       description:
-        - "Taught FSE 100: Introduction to Engineering lab (3 semesters) and online CSE 579: Knowledge Representation and Reasoning."
-        - "Achieved average student rating of 4.47/5."
+        - "Delivered lectures for the Introduction to Engineering lab course three times and Knowledge Representation and Reasoning course, focusing on practical skills and interactive learning. "
+        - "Guided students through lab activities, providing individual feedback and support."
+        - "Achieved an average student rating of 4.47/5, demonstrating effective teaching and strong support."
     - title: "Graduate Teaching Associate"
       institution: Arizona State University
       year: 2023 - 2024
       description:
-        - "Facilitated lab sessions, supported students, and graded assignments."
-        - "Developed course materials to enhance engagement."
+        - "Assisted in the instruction of undergraduate and graduate courses, including CSE 110 Principles of Programming, CSE 310 Data Structures and Algorithms, CSE 512 Distributed Database Systems, and CSE 566 Software Project, Process and Quality Management. "
+        - "Facilitated lab sessions, provided one-on-one support to students, graded assignments, and developed course materials that enhanced student understanding and engagement."
     - title: "Project Manager"
       institution: Turkish Petroleum Corporation, Ankara, Turkey
       year: 2021 - 2022
       description:
-        - "Communicated project goals with stakeholders and led weekly syncs with dev and QA teams."
-        - "Validated software and created test reports."
+        - "Led communication with stakeholders regarding project goals and progress made."
+        - "Conducted weekly status meetings with development and SQA teams to track project progress."
+        - "Tested and validated software and created test results report for software evaluation."
     - title: "Senior Software Engineer"
       institution: Turkish Petroleum Corporation, Ankara, Turkey
       year: 2017 - 2021
       description:
-        - "Developed full‑stack applications (ASP.NET CORE, C#, SQL, JS, React)."
-        - "Implemented Agile, CI/CD, REST APIs, JWT auth, Swagger UI."
-        - "Mentored junior developers; built ERP systems in Java."
-    - title: "Computer Engineer Intern"
-      institution: VakıfBank, Ankara, Turkey
-      year: Summer 2012
-      description:
-        - "Worked with Adabas DB, WPF, and natural language programming for CRM systems."
-        - "Designed flowcharts, ER diagrams, and database models."
-
+       - "Implemented procedures to gather and analyze user and business needs."
+       - "Designed and developed web application features, database schemas, and backend data models."
+       - "Developed web applications using ASP.NET Core/MVC, C# and SQL-based architectures."
+       - "Developed front end using HTML, CSS, JavaScript, jQuery, React libraries and framework."
+       - "Applied Agile software development practices and CI/CD tools in Scrum teams."
+       - "Deployed projects in a RESTful architecture and documented Web APIs with Swagger UI."
+       - "Mentored junior engineers and conducted code reviews in Agile development environments."
+       - "Led feature development, debugging, and production maintenance for ERP systems."
+       - "Created new business objects (BO) universes to prepare Crystal reports and Lumira dashboard."
 - title: Honors and Awards
   type: time_table
   contents:
+   - year: 2026
+      items:
+        - "CVPR26 Broadening Participation Scholarship Award"
     - year: 2024
       items:
         - "University Graduate Fellowship, ASU - awarded for excellent research and academic performance."
