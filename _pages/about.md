@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate, School of Computing & Augmented Intelligence, Arizona State University.
+subtitle: /
 
 
 profile:
